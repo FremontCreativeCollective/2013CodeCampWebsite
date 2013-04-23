@@ -13,7 +13,7 @@ function display_footer(){
                 <a href="http://www.twitter.com/SummrTechSeries"><img src="assets/icons/twitter.png" alt="Twitter!" class="img-polaroid footericon" /></a>
             </p>
             <p class="zen">
-                <img src="assets/icons/github.png" alt="Github!" class="img-polaroid footericon" />
+                <a href="https://www.github.com/TheBrockEllis/SummerTechSeries" alt="github Repo"><img src="assets/icons/github.png" alt="Github!" class="img-polaroid footericon" /></a>
                 <img src="assets/icons/youtube.png" alt="YouTube!" class="img-polaroid footericon" />
             </p>
         </div>

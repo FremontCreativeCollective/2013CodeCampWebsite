@@ -1,0 +1,171 @@
+body {
+    background-image: url('../assets/images/wool.png');
+    background-repeat: repeat;
+    background-color: #F3F3F3;
+    font-color: #0D0D0D;
+    text-shadow: 1px 1px 1px #AAA;
+    line-height: 1.8em;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.zen {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.navbar {
+    line-height: 1em;
+}
+
+.sliderheader {
+    color: #FFF;
+}
+
+#tagline {
+    font-size: 90px;
+    text-shadow: none;
+}
+
+.frontimagebox {
+    -moz-box-shadow: 0 8px 4px -5px gray;
+    -webkit-box-shadow: 0 8px 4px -5px gray;
+    box-shadow: 0 8px 4px -5px gray;
+}
+
+.frontimages {
+    display: block;
+    margin: auto;
+}
+
+.frontparagraphs {
+    font-size: larger;
+    line-height: 1.3em;
+}
+
+#ctabutton {
+    margin-top:15px;
+}
+
+.zen {
+    text-align: center;
+}
+
+#frontsponsors {
+    min-height: 200px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.sponsorimage {
+    text-align: center;
+    height: 150px;
+    padding: 15px;
+}
+
+.footer {
+    min-height: 200px;
+    background-color: #fafafa;
+    background-image: -moz-linear-gradient(top,#fff,#f2f2f2);
+    background-image: -webkit-gradient(linear,0 0,0 100%,from(#fff),to(#f2f2f2));
+    background-image: -webkit-linear-gradient(top,#fff,#f2f2f2);
+    background-image: -o-linear-gradient(top,#fff,#f2f2f2);
+    background-image: linear-gradient(to bottom,#fff,#f2f2f2);
+    background-repeat: repeat-x;
+    -moz-box-shadow: 0px -5px 5px #C0C0C0;
+    -webkit-box-shadow: 0px -5px 5px #C0C0C0;
+    box-shadow: 0px -5px 5px #C0C0C0;
+}
+
+.footerheader {
+    color: #000;
+    text-align: center;
+}
+
+.footericon {
+    padding: 15px;
+}
+
+.footericon_hover {
+    background-color: #f0f0f0;
+}
+
+.footertext {
+    line-height: 2em;
+}
+
+/** Accelerator **/
+.container-narrow {
+    margin: 0 auto;
+    max-width: 700px;
+}
+
+.jumbotron {
+    margin: 60px 0;
+    text-align: center;
+}
+
+.jumbotron h1 {
+    font-size: 64px;
+    line-height: 1;
+}
+      
+.jumbotron .btn {
+    font-size: 21px;
+    padding: 14px 24px;
+}
+
+.marketing {
+    margin: 60px 0;
+}
+
+.marketing p + h4 {
+    margin-top: 28px;
+}
+
+.rules_container {
+    margin-top: -10px;
+}
+
+.rules_header {
+    border-bottom: 1px solid #D0D0D0;
+}
+
+.rules_image {
+    margin-right: 15px;
+}
+
+.accordion {
+    margin-bottom: 25px;
+}
+
+.accordion-group {
+    margin-bottom: 25px;
+}
+.accordion-heading {
+    border-radius: 7px;
+    background-color: #fafafa;
+    background-image: -moz-linear-gradient(top,#fff,#f2f2f2);
+    background-image: -webkit-gradient(linear,0 0,0 100%,from(#fff),to(#f2f2f2));
+    background-image: -webkit-linear-gradient(top,#fff,#f2f2f2);
+    background-image: -o-linear-gradient(top,#fff,#f2f2f2);
+    background-image: linear-gradient(to bottom,#fff,#f2f2f2);
+    background-repeat: repeat-x;
+}
+
+.accordion-body {
+    background-color: #efefef;
+}
+
+.thankyou {
+    margin: 25px;
+    font-size: 32px;
+}
+
+.thankyou h1 {
+    font-size: 1.5em;
+    margin: 25px 0px 25px 0px;
+}
+
+.thankyou p {
+    padding: 15px;
+}

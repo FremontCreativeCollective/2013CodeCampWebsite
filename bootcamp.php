@@ -62,7 +62,7 @@ require_once("lib/footer.inc");
         <p>
             We know this. That is why we're attempting to make participating in this bootcamp
             as easy as possible. The Development Bootcamp will run the week of July 13th.
-            We will offer two period of instruction each day; 9:00AM to 12:00PM
+            We will offer two periods of instruction each day; 9:00AM to 12:00PM
             as well as 2:00PM to 5:00PM. We hope that offering two different time slots will help
             those who have a busy schedule join in the fun.
         </p>
@@ -71,7 +71,7 @@ require_once("lib/footer.inc");
         <p>
             This bootcamp is going to be intense. If you <em>really</em> don't want to be here,
             it will be a struggle. The $100.00 tuition for the camp is due before the first session.
-            We're going to be covering a lot of connect very quickly and we expect you to be engaged
+            We're going to be covering a lot of content very quickly and we expect you to be engaged
             and active while you're present.
         </p>
         
@@ -123,7 +123,7 @@ require_once("lib/footer.inc");
             <div class="accordion-inner">
                 <p>
                 No problemo. Just contact us and let us know. Scholarships are available
-                and we will do whatever we can to you involved.
+                and we will do whatever we can to get you involved.
                 </p>
             </div>
         </div>
@@ -139,7 +139,7 @@ require_once("lib/footer.inc");
             <div class="accordion-inner">
                 <p>
                 We're not going to lie, this bootcamp is going to be intense. We're aiming to introduce
-                you to the major concepts of programming and in no means are we saying you have to be
+                you to the major concepts of programming and by no means are we saying you have to be
                 an expert in anything when you leave. If we kindle your curiosity and you go home
                 after the bootcamp and do some tinkering and Google'ing on your own, we'll consider that
                 a success for us.

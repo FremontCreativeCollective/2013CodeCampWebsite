@@ -21,13 +21,17 @@ function display_header($link){
                 else echo '<li><a href="hackathon">Create</a></li>';
                 ?>
             </ul>
-            <a href="contactus" alt="Questions?" class="btn btn-success pull-right">Questions?</a>
+            <a href="contactus" alt="Questions?" id="questions" class="btn btn-success pull-right">Questions?</a>
             <ul class="nav pull-right">
                 <?php if($link == 5) echo '<li class="active"><a href="faqs">FAQs</a></li>';
                 else echo '<li><a href="faqs">FAQs</a></li>'; ?>
                 
                 <?php if($link == 6) echo '<li class="active"><a href="rules">Rules</a></li>';
                 else echo '<li><a href="rules">Rules</a></li>'; ?>
+    
+                <?php if($link == 7) echo '<li class="active"><a href="media">Media</a></li>';
+                else echo '<li><a href="media">Media</a></li>'; ?>
+
             </ul>
         </div>
     </div>

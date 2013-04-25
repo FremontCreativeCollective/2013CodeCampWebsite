@@ -169,3 +169,25 @@ body {
 .thankyou p {
     padding: 15px;
 }
+
+#mediatabs {
+    margin-top: 50px;
+}
+
+#promothumbnails {
+    margin-bottom: 25px;
+}
+
+#promothumbnails img {
+    display: block;
+    margin: auto;
+}
+
+.thumbnail {
+    background-color: #f0f0f0;
+    padding: 15px;
+}
+
+#questions {
+    margin-left: 10px;
+}

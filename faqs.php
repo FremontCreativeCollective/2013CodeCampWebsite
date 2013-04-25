@@ -319,13 +319,5 @@ require_once("lib/footer.inc");
 
     <?php display_footer(); ?>
 
-    <script src="http://code.jquery.com/jquery.js"></script>
-    <script src="lib/bootstrap/js/bootstrap.min.js"></script>
-    <script>
-    $('document').ready(function(){
-        $(".collapse").collapse()
-    });
-    </script>
-
 </body>
 </html>

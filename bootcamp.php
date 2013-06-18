@@ -46,7 +46,7 @@ require_once("lib/footer.inc");
             <p>Learn about the technologies that power the world wide web and are applicable just about anywhere!</p>
     
             <h2>Cheap</h2>
-            <p>$100.00 gets you 5 days of instruction & mentorship, plus you will walk away with a project all your own.</p>    
+            <p>**FREE** gets you 5 days of instruction & mentorship, plus you will walk away with a project all your own.</p>    
 
             <h2>Building Blocks</h2>
             <p>You'll become an "excellent beginner" in things like HTML, CSS and Javascript.</p>        
@@ -70,7 +70,7 @@ require_once("lib/footer.inc");
         <h3><img src="assets/icons/shocked.png" class='rules_image' alt="Babysitting" /> We aren't a babysitting service...</h3>
         <p>
             This bootcamp is going to be intense. If you <em>really</em> don't want to be here,
-            it will be a struggle. The $100.00 tuition for the camp is due before the first session.
+            it will be a struggle. 
             We're going to be covering a lot of content very quickly and we expect you to be engaged
             and active while you're present.
         </p>

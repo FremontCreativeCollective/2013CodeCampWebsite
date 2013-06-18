@@ -81,7 +81,7 @@ require_once("lib/footer.inc");
         <h3><img src="assets/icons/shocked.png" class='rules_image' alt="Babysitting" /> We aren't a babysitting service...</h3>
         <p>
             This bootcamp is going to be intense. If you <em>really</em> don't want to be here,
-            it will be a struggle. The $100.00 tuition for the camp is due before the first session.
+            it will be a struggle. 
             We're going to be covering a lot of connect very quickly and we expect you to be engaged
             and active while you're present.
         </p>

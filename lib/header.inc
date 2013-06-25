@@ -11,14 +11,14 @@ function display_header($link){
                 if($link == 1) echo '<li class="active"><a href="index.php">Home</a></li>';
                 else echo '<li><a href="index">Home</a></li>';
 
-                if($link == 2) echo '<li class="active"><a href="accelerator.php">Grow</a></li>';
-                else echo '<li><a href="accelerator">Grow</a></li>';
+                if($link == 2) echo '<li class="active"><a href="accelerator.php">Accelerator</a></li>';
+                else echo '<li><a href="accelerator">Accelerator</a></li>';
 
-                if($link == 3) echo '<li class="active"><a href="bootcamp.php">Learn</a></li>';
-                else echo '<li><a href="bootcamp">Learn</a></li>';
+                if($link == 3) echo '<li class="active"><a href="bootcamp.php">Bootcamp</a></li>';
+                else echo '<li><a href="bootcamp">Bootcamp</a></li>';
 
-                if($link == 4) echo '<li class="active"><a href="hackathon.php">Create</a></li>';
-                else echo '<li><a href="hackathon">Create</a></li>';
+                if($link == 4) echo '<li class="active"><a href="hackathon.php">Hackathon</a></li>';
+                else echo '<li><a href="hackathon">Hackathon</a></li>';
                 ?>
             </ul>
             <a href="contactus" alt="Questions?" id="questions" class="btn btn-success pull-right">Questions?</a>

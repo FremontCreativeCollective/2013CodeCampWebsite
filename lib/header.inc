@@ -3,9 +3,14 @@
 function display_header($link){
 ?>
    <!-- Navbar -->
+
     <div class="navbar navbar-static-top">
         <div class="navbar-inner">
+    
+            <a href="#" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="icon-th-list"></span></a>
+    
             <a class="brand" href="index">Summer Tech Series</a>
+            <div class="nav-collapse">
             <ul class="nav">
                 <?php
                 if($link == 1) echo '<li class="active"><a href="index.php">Home</a></li>';
@@ -33,6 +38,7 @@ function display_header($link){
                 else echo '<li><a href="media">Media</a></li>'; ?>
 
             </ul>
+            </div>
         </div>
     </div>
     <!-- /Navbar -->
